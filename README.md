@@ -2,7 +2,7 @@
 
 The React Recipe App is a web application that allows users to search and discover various recipes. It provides an intuitive and user-friendly interface for browsing recipes, viewing their details, and saving favorites for future reference.
 
--Visit Site Here: 
+-Visit Site Here: https://elijah-recipes-9fbe.vercel.app/
 
 ## Features
 - Recipe Search: Users can search for recipes based on keywords, ingredients, or specific dietary requirements.
